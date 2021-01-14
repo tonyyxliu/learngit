@@ -1,1 +1,2 @@
 This file if to test how to delete a file from either the workstation or the stage, and also how to get it back from the commit database.
+(I add something here, 1/14/2021)
